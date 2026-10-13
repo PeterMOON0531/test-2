@@ -1,2 +1,3 @@
 test ssh
 1111111
+연결해 좋으면 commit 후 publish 하면 되네요
